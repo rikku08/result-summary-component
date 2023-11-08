@@ -52,7 +52,7 @@ With this challenge I was able to learn Github as well, how to make a repository
 ### Continued development
 
 
-I will focus more on coding HTML and CSS to improve my skills with the challenges available in Frontend Mentor. While doing JavaScript lesson on freecodecamp.org
+I will focus more on coding HTML and CSS to improve my skills with the challenges available in Frontend Mentor. While doing JavaScript lesson on freecodecamp.org. I might also do a quick JSON lesson, as I was not able to take advantage of the JSON data.
 
 ### Useful resources
 
